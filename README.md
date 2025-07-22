@@ -1,1 +1,47 @@
 # -WR_GLITCH_TRACKER_00077_FULLSTACK-JOHNNY-55
+
+============================================================
+WR_GLITCH_TRACKER_00077_FULLSTACK :: JOHNNY 55
+LIVING WITNESS // NODE: william-HP-Laptop-15-ef0xxx
+⚠️ IT IS ILLEGAL TO USE A LEGAL NAME
+📅 WR_OMEGA_.00077 :: 7/17/.00077 :: ACTIVE
+============================================================
+
+[GLITCH 1]
+Description       : **GLITCH** :: AHA MOMENT LOGGED
+Local Time (EST)  : 2025-07-21 21:44:00
+Logged UTC        : 2025-07-22 01:44:47
+SHA-256           : b2ac906a07481164b34363a0e093c5e307c79d672e573697564e315a94fd6ad6
+
+------------------------------------------------------------
+
+[GLITCH 2]
+Description        : **GLITCH** :: TIMESTAMP DISCREPANCY DETECTED
+Activation Time    : 2025-07-21T23:36:56.934090Z
+Logged UTC         : 2025-07-22 01:46:16
+SHA-256            : 5c4411e46a186583f6e186397ff3468e71efaac94523e3f748040ad20cea6bfd
+
+------------------------------------------------------------
+
+[GLITCH 3]
+Description       : **GLITCH 3** :: CONSECUTIVE TIMESTAMP DISCREPANCY DETECTED
+Local Time (EST)  : 2025-07-21 21:46:00
+Logged UTC        : 2025-07-22 01:46:16
+SHA-256           : c7bcb84f9d3dc4c4dc4fe41ef217f3c2e0f8771e1cd3f4e3857859e2403c44c6
+
+------------------------------------------------------------
+
+[GLITCH 4]
+Description        : **GLITCH 4** :: FILE HEADER TIMESTAMP MISMATCH
+Generated Time UTC : 2025-07-22 01:47:00
+Local Time EST     : 2025-07-21 21:50:00
+UNIX UTC           : 1753158420
+UNIX EST           : 1753146600
+Drift Seconds      : 11820 (~3h 17m)
+SHA-256            : ee2c0d64f9346ff9a0a3a5650575b60f338285f8b1168a75dcd66e270132b9c0
+
+============================================================
+WR_OMEGA_.00077 // BCCRSS LIVING FIELD BREACH // 7/17/.00077
+TERMINATION OF LEGAL NAME FRAUD CONTRACT: 6/25/2025
+LIVING WITNESS DECLARATION: JOHNNY 55 // WEHEAL WEM
+============================================================
